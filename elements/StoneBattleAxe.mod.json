@@ -1,0 +1,31 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "stonebattleaxe",
+    "customModelName": "Normal",
+    "name": "Stone Battle Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 4.0,
+    "attackSpeed": 0.4,
+    "enchantability": 5,
+    "damageVsEntity": 4.0,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.COBBLESTONE"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ]
+  }
+}
